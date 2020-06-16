@@ -1,13 +1,1 @@
-hello my name is mohit sood
-i am from kullu hp
-i m a javascript developer
-
-
-this is not what I want 
-
-
-I want only this in my master branch 
-
-
-
-Iwant only this in developer branch keh diya hai ye 
+i am mohit sood
