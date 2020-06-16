@@ -7,3 +7,7 @@ this is not what I want
 
 
 I want only this in my master branch 
+
+
+
+Iwant only this in developer branch keh diya hai ye 
