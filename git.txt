@@ -2,3 +2,5 @@ i am mohit sood
 
 
 i am from kullu -> add this in dev branch 
+
+i am from mandi ->not in dev branch
