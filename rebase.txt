@@ -1,0 +1,10 @@
+git rebase tutorial
+
+rebase 1 
+
+A  B  C
+
+
+rebase 2 
+
+AA BB 
