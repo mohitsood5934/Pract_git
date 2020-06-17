@@ -2,4 +2,4 @@ git rebase tutorial
 
 rebase 1 
 
-A  B 
+A  B  C
