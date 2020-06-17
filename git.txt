@@ -1,2 +1,6 @@
 hello i am a navigation list
 ye master hai bhai g
+i am mohit sood
+
+ye developer hai sale
+i am from kullu -> add this in dev branch 
